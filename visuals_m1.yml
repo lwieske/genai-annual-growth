@@ -1,0 +1,9 @@
+name: visuals_m1
+dependencies:
+  - python
+  - pip
+  - matplotlib
+  - pandas
+  - seaborn
+  - ipykernel
+  - ipywidgets
